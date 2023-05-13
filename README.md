@@ -1,2 +1,54 @@
 # we-hate-epic-games
 epic games broke every single manifest
+
+Builds :
+
+SEASON 2 :
+2.3 - 
+2.5 - 
+
+SEASON 3 :
+3.0 -
+3.1 - 
+
+SEASON 4 :
+4.0 -
+4.1 - 
+
+SEASON 7 :
+7.30 - 
+7.40 -
+
+SEASON 8 :
+
+SEASON 9 :
+
+SEASON X :
+
+CHAPTER 2 SEASON 1 :
+
+CHAPTER 2 SEASON 2 :
+
+CHAPTER 2 SEASON 3 :
+
+CHAPTER 2 SEASON 4 :
+
+CHAPTER 2 SEASON 5 :
+
+CHAPTER 2 SEASON 6 :
+
+CHAPTER 2 SEASON 7 :
+
+CHAPTER 2 SEASON 8 :
+
+CHAPTER 3 SEASON 1 :
+
+CHAPTER 3 SEASON 2 :
+
+CHAPTER 3 SEASON 3 :
+
+CHAPTER 3 SEASON 4 :
+
+CHAPTER 4 SEASON 1 :
+
+CHAPTER 4 SEASON 2 :
