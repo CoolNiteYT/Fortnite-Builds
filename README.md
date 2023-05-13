@@ -1,11 +1,14 @@
-# we-hate-epic-games
-epic games broke every single manifest
+# LOST Fortnite Builds
+
+So why am I doing this?
+Honestly I don't know
+What I do know is that as of the 13th May 2023 , Epic Games has caused every manifest to break so
 
 Builds :
 
 SEASON 2 :
 
-2.3 - 
+2.3 - https://mega.nz/file/dfRHDbiQ#U_dg2YSoRsTgJpqSrejw2gpp6oJmle0An0lodDJZaZ0
 
 2.5 - 
 
