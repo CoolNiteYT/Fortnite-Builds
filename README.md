@@ -187,6 +187,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 12.40 :
 
 12.41 : https://cdn.fnbuilds.services/Fortnite%2012.41.zip
+
 12.50 : https://cdn.fnbuilds.services/12.50.zip
 
 12.60 :
