@@ -175,97 +175,161 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 11.50 :
 ## Season 2
 12.00 : https://cdn.fnbuilds.services/12.00.rar
+
 12.10 :
+
 12.20 :
+
 12.21 : https://cdn.fnbuilds.services/12.21.zip
+
 12.30 :
+
 12.40 :
-**12.41 **: https://cdn.fnbuilds.services/Fortnite%2012.41.zip
+
+12.41 : https://cdn.fnbuilds.services/Fortnite%2012.41.zip
 12.50 : https://cdn.fnbuilds.services/12.50.zip
+
 12.60 :
-**12.61 **: https://cdn.fnbuilds.services/12.61.zip
+
+12.61: https://cdn.fnbuilds.services/12.61.zip
 ## Season 3
 13.00 : https://cdn.fnbuilds.services/13.00.rar
+
 13.20 :
+
 13.30 :
+
 13.40 : https://cdn.fnbuilds.services/13.40.zip
 ## Season 4
 14.00 : https://cdn.fnbuilds.services/14.00.rar
+
 14.10 :
+
 14.20 :
+
 14.30 :
+
 14.40 : https://cdn.fnbuilds.services/14.40.rar
+
 14.50 :
-**14.60 **: https://cdn.fnbuilds.services/14.60.rar
+
+14.60: https://cdn.fnbuilds.services/14.60.rar
 ## Season 5
 15.00 :
+
 15.10 :
+
 15.20 :
+
 15.21 :
+
 15.30 : https://cdn.fnbuilds.services/15.30.rar
+
 15.40 : 
+
 15.50 : https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view
 ## Season 6
-**16.00 **:
-**16.10 **:
-**16.20 **:
-**16.30 **:
-**16.40 **: https://cdn.fnbuilds.services/16.40.rar
-**16.50 **: https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing
+16.00:
+
+16.10:
+
+16.20:
+
+16.30:
+
+16.40: https://cdn.fnbuilds.services/16.40.rar
+
+16.50: https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing
 ## Season 7
 17.00 :
+
 17.10 :
+
 17.20 :
-**17.30** : https://cdn.fnbuilds.services/17.30.zip
+
+17.30 : https://cdn.fnbuilds.services/17.30.zip
+
 17.40 :
-**17.50 **: https://cdn.fnbuilds.services/17.50.zip
+
+17.50 : https://cdn.fnbuilds.services/17.50.zip
 ## Season 8
 18.00 :
+
 18.10 :
+
 18.20 :
+
 18.21 :
+
 18.30 :
-**18.40 **: https://cdn.fnbuilds.services/18.40.zip
+
+18.40 : https://cdn.fnbuilds.services/18.40.zip
 # Chapter 3
 ## Season 1
 19.00 :
+
 19.01 : https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing
+
 19.10 : https://cdn.fnbuilds.services/19.10.rar
+
 19.20 :
+
 19.30 :
+
 19.40 :
 ## Season 2
 20.00 : 
+
 20.10 : 
+
 20.20 : 
+
 20.30 : 
-**20.40 **: https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view?usp=sharing
+
+20.40: https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view?usp=sharing
 ## Season 3
+
 21.00 : https://drive.google.com/file/d/1lOVtoc5WjBzKQRrHt36OPmbkQcwx9GZH/view?usp=sharing
+
 21.10 :
+
 21.20 :
+
 21.30 :
+
 21.40 :
+
 21.50 :
+
 21.51 :
 ## Season 4
 22.00 : 
+
 22.10 : 
+
 22.20 :
+
 22.30 :
-**22.40 **: **Manifest**
+22.40 :
 
 # Chapter 4
 ## Season 1
 23.00 :
+
 23.10 :
+
 23.20 :
+
 23.30 :
+
 23.40 :
+
 23.50 :
 ## Season 2
 24.00 :
+
 24.01 :
+
 24.10 :
 
 24.20 and later can be downloaded from their manifest files
