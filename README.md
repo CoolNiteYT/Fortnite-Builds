@@ -1,8 +1,9 @@
-(Any builds that are **in bold** have a live event on that version)
 
 # Before Battle Royale
 OT6.5 : https://cdn.fnbuilds.services/OT0.6.5.zip
+
 Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download&authuser=0
+
 1.2 : https://drive.google.com/file/d/1JpQxlwnkJX_fYh6hPU0z6jS78iS6X2k6/view
 
 # Chapter 1
@@ -51,73 +52,126 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 3.6 : https://cdn.fnbuilds.services/3.6.zip
 ## Season 4
 4.0 : https://cdn.fnbuilds.services/4.0.zip
+
 4.1 : https://cdn.fnbuilds.services/4.1.zip
+
 4.2 : https://cdn.fnbuilds.services/4.2.zip
+
 4.4 : https://cdn.fnbuilds.services/4.4.rar
-**4.5 **: https://cdn.fnbuilds.services/4.5.rar
+
+4.5: https://cdn.fnbuilds.services/4.5.rar
 ## Season 5
 5.0-CL-4204761 : https://cdn.fnbuilds.services/5.00.rar
+
 5.0-CL-4214610 : https://cdn.fnbuilds.services/5.0.1.rar
+
 5.10 : https://cdn.fnbuilds.services/5.10.rar
+
 5.21 : https://cdn.fnbuilds.services/5.21.rar
-**5.30 **: https://cdn.fnbuilds.services/5.30.rar
+
+5.30 : https://cdn.fnbuilds.services/5.30.rar
+
 5.40 : https://cdn.fnbuilds.services/5.40.rar
-**5.41 **:https://drive.google.com/file/d/1WOeSqe-rncwCujUNVE_WYvxg3nxhWKNB/view?usp=sharing
+
+5.41 : https://drive.google.com/file/d/1WOeSqe-rncwCujUNVE_WYvxg3nxhWKNB/view?usp=sharing
 ## Season 6
 6.00 : https://cdn.fnbuilds.services/6.00.rar
+
 6.01-CL-4417689    : https://cdn.fnbuilds.services/6.01.rar
+
 6.01-CL-4424678    : https://cdn.fnbuilds.services/6.1.1.rar
+
 6.02-CL-4442095    : https://cdn.fnbuilds.services/6.02.rar
+
 6.02-CL-4461277    : https://cdn.fnbuilds.services/6.2.1.rar
+
 6.10-CL-4464155    : https://cdn.fnbuilds.services/6.10.rar
+
 6.10-CL-4476098    : https://cdn.fnbuilds.services/6.10.1.rar
+
 6.10-CL-4480234    : https://cdn.fnbuilds.services/6.10.2.rar
+
 6.20 : https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing
-**6.21 **: https://cdn.fnbuilds.services/6.21.rar
+
+6.21: https://cdn.fnbuilds.services/6.21.rar
+
 6.22 : https://cdn.fnbuilds.services/6.22.rar
+
 6.30 : https://cdn.fnbuilds.services/6.30.rar
+
 6.31 : https://cdn.fnbuilds.services/6.31.rar
 ## Season 7
 7.0 : https://cdn.fnbuilds.services/7.00.rar
+
 7.10 : https://cdn.fnbuilds.services/7.10.rar
-**7.20 **: https://cdn.fnbuilds.services/7.20.rar
-**7.30 **: https://drive.google.com/file/d/19CSg0CERKaTDATImlR-xOUTCd_iDhWc9/view?usp=sharing
+
+7.20 : https://cdn.fnbuilds.services/7.20.rar
+
+7.30: https://drive.google.com/file/d/19CSg0CERKaTDATImlR-xOUTCd_iDhWc9/view?usp=sharing
+
 7.40 : https://cdn.fnbuilds.services/7.40.rar
 ## Season 8
 8.00 : https://cdn.fnbuilds.services/8.00.zip
+
 8.20 : https://cdn.fnbuilds.services/8.20.rar
+
 8.30 : https://cdn.fnbuilds.services/8.30.rar
+
 8.40 : https://cdn.fnbuilds.services/8.40.zip
+
 8.50 : https://cdn.fnbuilds.services/8.50.zip
-**8.51 **: https://cdn.fnbuilds.services/8.51.rar
+
+8.51: https://cdn.fnbuilds.services/8.51.rar
 ## Season 9
 9.00 : https://cdn.fnbuilds.services/9.00.zip
+
 9.01 : https://cdn.fnbuilds.services/9.01.zip
+
 9.10 : https://cdn.fnbuilds.services/9.10.rar
+
 9.20 :
+
 9.21 : https://cdn.fnbuilds.services/9.21.zip
+
 9.30 : https://cdn.fnbuilds.services/9.30.zip
-**9.40 **: https://cdn.fnbuilds.services/9.40.zip
-**9.41 **: https://cdn.fnbuilds.services/9.41.rar
+
+9.40: https://cdn.fnbuilds.services/9.40.zip
+
+9.41: https://cdn.fnbuilds.services/9.41.rar
 ## Season X
+
 10.00 : https://cdn.fnbuilds.services/10.00.zip
+
 10.10 : https://cdn.fnbuilds.services/10.10.zip
+
 10.20 : https://cdn.fnbuilds.services/10.20.zip
+
 10.30 :
+
 10.31 : https://cdn.fnbuilds.services/10.31.zip
-**10.40** : https://cdn.fnbuilds.services/10.40.rar
+
+10.40 : https://cdn.fnbuilds.services/10.40.rar
 
 # Chapter 2
 ## Season 1
 11.00 : https://cdn.fnbuilds.services/11.00.zip
+
 11.01 :
+
 11.10 :
+
 11.11 :
+
 11.20 :
+
 11.21 :
+
 11.30 : https://drive.google.com/file/d/1TaYBOJPwIxxpNJ1WFwd6VXmFnpxXF4Bl/view?usp=sharing
+
 11.31 : https://cdn.fnbuilds.services/11.31.rar
+
 11.40 :
+
 11.50 :
 ## Season 2
 12.00 : https://cdn.fnbuilds.services/12.00.rar
