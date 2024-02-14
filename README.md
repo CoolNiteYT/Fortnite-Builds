@@ -22,19 +22,32 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 1.10 : https://cdn.fnbuilds.services/1.10.rar
 ## Season 2
 1.11 : https://cdn.fnbuilds.services/1.11.zip
+
 2.1.0 : https://cdn.fnbuilds.services/2.1.0.zip
+
 2.2.0 : https://cdn.fnbuilds.services/2.2.0.rar
+
 2.3.0 : https://cdn.fnbuilds.services/2.3.rar
+
 2.4.0 : https://cdn.fnbuilds.services/2.4.0.zip
+
 2.4.2 : https://cdn.fnbuilds.services/2.4.2.zip
+
 2.5 : https://cdn.fnbuilds.services/2.5.0.rar
 ## Season 3
+
 3.0 : https://cdn.fnbuilds.services/3.0.zip
+
 3.1-CL-3915963 : https://cdn.fnbuilds.services/3.1.rar
+
 3.1-CL-3917250 : https://cdn.fnbuilds.services/3.1.1.zip
+
 3.2 : https://cdn.fnbuilds.services/3.2.zip
+
 3.3 : https://cdn.fnbuilds.services/3.3.rar
+
 3.5 : https://cdn.fnbuilds.services/3.5.rar
+
 3.6 : https://cdn.fnbuilds.services/3.6.zip
 ## Season 4
 4.0 : https://cdn.fnbuilds.services/4.0.zip
