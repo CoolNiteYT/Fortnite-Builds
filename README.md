@@ -129,7 +129,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 9.10 : https://cdn.fnbuilds.services/9.10.rar
 
-9.20 :
+9.20 : https://drive.google.com/file/d/1Yh1JhuRR1k8q6EwCrB9QN5iz5P-zZDgB/view?usp=sharing
 
 9.21 : https://cdn.fnbuilds.services/9.21.zip
 
