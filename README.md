@@ -156,7 +156,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 ## Season 1
 11.00 : https://cdn.fnbuilds.services/11.00.zip
 
-11.01 :
+11.01 : https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing
 
 11.10 :
 
