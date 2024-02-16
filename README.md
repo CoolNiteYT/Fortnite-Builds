@@ -146,7 +146,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 10.20 : https://cdn.fnbuilds.services/10.20.zip
 
-10.30 :
+10.30 : https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing
 
 10.31 : https://cdn.fnbuilds.services/10.31.zip
 
