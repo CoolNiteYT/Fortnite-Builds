@@ -158,7 +158,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 11.01 : https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing
 
-11.10 :
+11.10 : https://drive.google.com/file/d/1qpo93UCUv5WwqaoD5YtN1XawqKA0D_B1/view?usp=sharing
 
 11.11 :
 
@@ -273,7 +273,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 19.10 : https://cdn.fnbuilds.services/19.10.rar
 
-19.20 :
+19.20 : https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view?usp=sharing
 
 19.30 :
 
