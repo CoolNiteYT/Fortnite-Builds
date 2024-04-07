@@ -1,3 +1,7 @@
+These builds have come from :
+[simplyblk Fortnite Builds repo](https://github.com/simplyblk/Fortnitebuilds)
+[notsamicc Fortnite Builds repo](https://github.com/notsamicc/Fortnite-Builds)
+Some have been uploaded by me, or other people
 
 # Before Battle Royale
 OT6.5 : https://cdn.fnbuilds.services/OT0.6.5.zip
@@ -279,7 +283,7 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 19.40 :
 ## Season 2
-20.00 : 
+20.00 : https://drive.google.com/file/d/1T_S_mEpr2v7cfgfvXGplGoO5rwnttoF-/view?usp=sharing
 
 20.10 : 
 
@@ -310,7 +314,8 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 22.20 :
 
-22.30 :
+22.30 : https://drive.google.com/file/d/1VAA0OvkLddmOpTbpnGIpdJP7OxQmuxrD/view?usp=sharing
+
 22.40 :
 
 # Chapter 4
@@ -333,4 +338,43 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 24.10 :
 
-24.20 and later can be downloaded from their manifest files
+24.20 :
+
+24.30 :
+
+24.40 :
+## Season 3
+25.00 :
+
+25.10 :
+
+25.11 : 
+
+25.20 : 
+
+25.30 : 
+
+## Season 4
+26.00 :
+26.10 :
+26.20 :
+26.30 :
+
+# Fortnite OG
+27.00 :
+27.10 :
+27.11 : https://drive.google.com/file/d/1yDuLwf_9kgzw-bwGoDfp0vPaIzulMhH8/view?usp=sharing
+
+# Chapter 5
+## Season 1
+28.00 :
+28.01 :
+28.10 :
+28.20 :
+28.30 :
+## Season 2
+29.00 :
+29.01 :
+29.10 :
+
+Certain builds (mainly 24.20+, 22.40 and 13.40), can still be downloaded from their manifests, using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases)
