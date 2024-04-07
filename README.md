@@ -1,7 +1,10 @@
-These builds have come from :
+Some of these builds have come from :
+
 [simplyblk Fortnite Builds repo](https://github.com/simplyblk/Fortnitebuilds)
+
 [notsamicc Fortnite Builds repo](https://github.com/notsamicc/Fortnite-Builds)
-Some have been uploaded by me, or other people
+
+The others have been uploaded either by me or by someone else
 
 # Before Battle Royale
 OT6.5 : https://cdn.fnbuilds.services/OT0.6.5.zip
