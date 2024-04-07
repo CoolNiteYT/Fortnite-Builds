@@ -1,8 +1,6 @@
-Some of these builds have come from :
+# Credits
 
-[simplyblk Fortnite Builds repo](https://github.com/simplyblk/Fortnitebuilds)
-
-[notsamicc Fortnite Builds repo](https://github.com/notsamicc/Fortnite-Builds)
+Some of these builds have come from [simplyblk](https://github.com/simplyblk/Fortnitebuilds), and [notsamicc](https://github.com/notsamicc/Fortnite-Builds)
 
 The others have been uploaded either by me or by someone else
 
