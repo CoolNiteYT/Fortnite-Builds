@@ -356,25 +356,39 @@ Cert-CL-3532353 : https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4d
 
 ## Season 4
 26.00 :
+
 26.10 :
+
 26.20 :
+
 26.30 :
 
 # Fortnite OG
 27.00 :
+
 27.10 :
+
 27.11 : https://drive.google.com/file/d/1yDuLwf_9kgzw-bwGoDfp0vPaIzulMhH8/view?usp=sharing
 
 # Chapter 5
 ## Season 1
 28.00 :
+
 28.01 :
+
 28.10 :
+
 28.20 :
+
 28.30 :
 ## Season 2
 29.00 :
+
 29.01 :
+
 29.10 :
+
+
+# Manifests
 
 Certain builds (mainly 24.20+, 22.40 and 13.40), can still be downloaded from their manifests, using [Legendary](https://github.com/derrod/legendary/releases/latest). You can find most manifests for Fortnite versions [here](https://github.com/polynite/fn-releases)
