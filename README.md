@@ -4,6 +4,8 @@ Some of these builds have come from [simplyblk](https://github.com/simplyblk/For
 
 The others have been uploaded either by me or by someone else
 
+NOTE : Some of the links are now dead (thank you Google for being absolutely amazing and definitely not the most stupid thing in existence)
+
 # Before Battle Royale
 OT6.5 : https://cdn.fnbuilds.services/OT0.6.5.zip
 
